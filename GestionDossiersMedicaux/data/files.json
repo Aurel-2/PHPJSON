@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Jean",
+        "age": 34,
+        "diagnosisList": [
+            {
+                "Date": "2025-03-10",
+                "Diagnostic": "Tumeur"
+            },
+            {
+                "Date": "2025-03-06",
+                "Diagnostic": "Cancer"
+            }
+        ]
+    }
+]

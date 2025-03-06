@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Quelle est la capitale de la France ?",
+    "options": [
+      "Paris",
+      "Londres",
+      "Berlin",
+      "Madrid"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quelle est la valeur de 2+2 ?",
+    "options": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Qui a écrit 'Roméo et Juliette' ?",
+    "options": [
+      "Victor Hugo",
+      "Shakespeare",
+      "Molière",
+      "Albert Camus"
+    ],
+    "correct": 1
+  }
+]

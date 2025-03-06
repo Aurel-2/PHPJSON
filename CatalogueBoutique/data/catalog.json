@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Smartphone XYZ",
+        "Price": 799.99,
+        "Category": "\u00c9lectronique",
+        "Image": "default.jpg",
+        "Stock": true
+    },
+    {
+        "Name": "R\u00e9frig\u00e9rateur XYZ",
+        "Price": 899.99,
+        "Category": "\u00c9lectrom\u00e9nager",
+        "Image": "default.jpg",
+        "Stock": true
+    },
+    {
+        "Name": "V\u00e9lo de montagne",
+        "Price": 499.99,
+        "Category": "Sport",
+        "Image": "default.jpg",
+        "Stock": true
+    },
+    {
+        "Name": "Livre de cuisine",
+        "Price": 29.99,
+        "Category": "Livres",
+        "Image": "default.jpg",
+        "Stock": true
+    },
+    {
+        "Name": "Jean",
+        "Price": 12,
+        "Category": "Jean",
+        "Stock": false,
+        "Image": "images\/964065.jpg"
+    }
+]
